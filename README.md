@@ -1,14 +1,8 @@
 # Vue-expense-tracker-app
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![image](https://github.com/user-attachments/assets/8fa7a220-f099-45e5-b651-c814f2ceaeb2)
+Vue Expense Tracker is a web application to track income and expense activity. This application is single page application and has simple design, which is easy to use by user to list activity of adding or subtract amount of money.
+- **Vue**            : 3.4.21
+- **Vite**           : 5.1.6
 
 ## Project Setup
 
